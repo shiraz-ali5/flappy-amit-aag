@@ -1,0 +1,7 @@
+# Audio Files Directory
+
+Place your audio files here:
+- `aag_aag.mp3` - Background loop sound (plays during gameplay)
+- `mkb_aag.mp3` - Game over sound (plays on collision)
+
+The game will work without these files, but you won't hear the sound effects.
